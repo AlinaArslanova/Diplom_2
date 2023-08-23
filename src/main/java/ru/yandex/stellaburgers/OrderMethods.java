@@ -1,4 +1,4 @@
-package stellaburgers;
+package ru.yandex.stellaburgers;
 import java.util.List;
 
 public class OrderMethods {

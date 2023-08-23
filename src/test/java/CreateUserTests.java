@@ -3,9 +3,9 @@ import io.restassured.response.ValidatableResponse;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
-import stellaburgers.User;
-import stellaburgers.UserGenerator;
-import stellaburgers.UserMethods;
+import ru.yandex.stellaburgers.User;
+import ru.yandex.stellaburgers.UserGenerator;
+import ru.yandex.stellaburgers.UserMethods;
 import static org.hamcrest.CoreMatchers.equalTo;
 
 public class CreateUserTests {

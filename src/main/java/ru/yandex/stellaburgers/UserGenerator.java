@@ -1,4 +1,4 @@
-package stellaburgers;
+package ru.yandex.stellaburgers;
 import org.apache.commons.lang3.RandomStringUtils;
 
 public class UserGenerator {

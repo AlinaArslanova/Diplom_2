@@ -1,4 +1,4 @@
-package stellaburgers;
+package ru.yandex.stellaburgers;
 import io.qameta.allure.Step;
 import io.restassured.response.ValidatableResponse;
 import static io.restassured.RestAssured.given;

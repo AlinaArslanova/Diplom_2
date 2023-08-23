@@ -1,23 +1,13 @@
-package stellaburgers;
+package ru.yandex.stellaburgers;
 
-public class UserMethods {
+public class UserCredentials {
 
-    private String name;
     private String email;
     private String password;
 
-    public UserMethods(String name, String email, String password) {
-        this.name = name;
+    public UserCredentials(String email, String password) {
         this.email = email;
         this.password = password;
-    }
-
-    public String getName() {
-        return name;
-    }
-
-    public void setName(String name) {
-        this.name = name;
     }
 
     public String getEmail() {
